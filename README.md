@@ -1,6 +1,16 @@
 ## webpack多页面构建
 
-项目列表
+> 运行打包
+
+```
+cnpm install
+
+webpack // 打包
+
+```
+
+> 项目列表
+
 ```javascript
 |-- readme文件夹 --// 放置README.md说明文件的图片，项目中可删除的
 |-- src
